@@ -129,5 +129,3 @@ The dataset used in this project is from the **Consumer Financial Protection Bur
 4. CFPB: [HMDA Data Overview](https://www.consumerfinance.gov/data-research/hmda/)
 5. Federal Trade Commission: [Gramm-Leach-Bliley Act](https://www.ftc.gov/business-guidance/resources/how-comply-privacy-consumer-financial-information-rule-gramm-leach-bliley-act)
 
-、
-
